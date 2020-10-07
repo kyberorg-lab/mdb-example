@@ -1,0 +1,9 @@
+.main-input {
+  width: 75%;
+}
+
+@media only screen and (max-width : 575px) {
+  .main-input {
+    width: 100%;
+  }
+}
